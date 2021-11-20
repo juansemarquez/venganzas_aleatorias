@@ -11,7 +11,9 @@ Pasado](https://venganzasdelpasado.com.ar/).
 ## Prerrequisitos
 
 Tener **GNU/Linux** (o un intérprete de bash en otro sistema operativo) y
-**wget** para descargar (y un reproductor de audio para escuchar, ma vale).
+**wget** para descargar. Lo más probable es que ya lo tengas instalado, y no
+necesites hacer nada. (Y tenés que tener un reproductor de audio para escuchar,
+¿o a qué estamos jugando?).
 
 ## Uso
 
