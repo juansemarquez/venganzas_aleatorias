@@ -1,7 +1,17 @@
 # venganzas_aleatorias
-Script bash que descarga y reproduce un programa al azar de "La venganza será terrible".
+Script bash que descarga y reproduce un programa al azar de "La venganza será
+terrible", de Alejandro Dolina.
+
+La descarga se realiza desde el sitio [Venganzas del
+Pasado](https://venganzasdelpasado.com.ar/).
+
+## Prerrequisitos
+
+Tener **GNU/Linux** (o un intérprete de bash en otro sistema operativo) y
+**wget** para descargar (y un reproductor de audio para escuchar, ma vale).
 
 ## Uso
+
 Descargar el archivo y darle permisos de ejecución con
 
 ```bash
@@ -19,4 +29,6 @@ anio_actual=2022
 player="audacious"
 ```
 
-Ejecutar el archivo desde una terminal.
+Ejecutar el archivo desde una terminal. Y chau.
+- ¿Chau qué?
+- Nada, estoy saludando al que se va a ejecutar el script.
