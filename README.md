@@ -2,6 +2,9 @@
 Script bash que descarga y reproduce un programa al azar de "La venganza será
 terrible", de Alejandro Dolina.
 
+El programa se emite desde hace 35 años cada medianoche, desde distintas
+emisoras. Actualmente, puede escucharse por AM750 de Buenos Aires.
+
 La descarga se realiza desde el sitio [Venganzas del
 Pasado](https://venganzasdelpasado.com.ar/).
 
